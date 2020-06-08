@@ -9,7 +9,7 @@ Here are some syllabi of courses I have taught in the past
 
 [American Government; Summer 2020](Syllabus_Summer_2020.pdf)
 
-[International Political Economy: Spring 2020](PSCI 4356 Syllabus.pdf)
+[International Political Economy; Spring 2020](PSCI 4356 Syllabus.pdf)
 
 [Intro to Statistics; Fall 2019](EPPS 2302.502 syllabus.pdf)
 
