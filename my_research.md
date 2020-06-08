@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Research
-permalink: /My Research/
+permalink: /my_research/
 ---
 
 
