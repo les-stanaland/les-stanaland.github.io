@@ -12,4 +12,4 @@ I am fortunate to have a wonderful wife of 14 years and two amazing kiddos who t
 
 ### Contact me
 
-[les.stanaland@utdallas.edu](mailto:email@domain.com)
+[les.stanaland@utdallas.edu](mailto:les.stanaland@utdallas.edu)
