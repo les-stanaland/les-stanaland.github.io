@@ -7,6 +7,6 @@ permalink: /my_research/
 
 Here are examples of my work.
 
-[Visucalization of Twitter data on the 2020 AP Exams](AP_exam_wordcloud.pdf)
+[Visualization of Twitter data on the 2020 AP Exams](AP_exam_wordcloud.pdf)
 
 
