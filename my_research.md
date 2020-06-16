@@ -9,4 +9,4 @@ Here are examples of my work.
 
 [Visualization of Twitter data on the 2020 AP Exams](AP_exam_wordcloud.pdf)
 
-[Graphic of number of tweets written by Seattle Mayor Jenny Durkan](Mayor Jenny Tweets)
+[Graphic of number of tweets written by Seattle Mayor Jenny Durkan](Mayor_Jenny_Tweets.pdf)
