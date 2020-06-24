@@ -119,3 +119,4 @@ plot_usmap(data = E, values = "PercentChangeFromPriorYear", include = c("TX"), r
   theme(legend.position = "right")
 ```
 
+![2020 Texas Tax Revenues changes](2020_Texas_tax_revenue.pdf)
