@@ -63,48 +63,56 @@ E <- subset(mst, Year==2020)
 ##create a map for each year
 
 #2013
+
 plot_usmap(data = X, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2013") + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2014
+
 plot_usmap(data = Y, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2014", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2015
+
 plot_usmap(data = Z, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2015", label = scales::comma) +
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2016
+
 plot_usmap(data = A, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2016", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2017
+
 plot_usmap(data = B, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2017", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2018
+
 plot_usmap(data = C, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2018", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2019
+
 plot_usmap(data = D, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2019", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
   theme(legend.position = "right")
 
 #2020
+
 plot_usmap(data = E, values = "PercentChangeFromPriorYear", include = c("TX"), regions = "counties", color = "black") + 
   scale_fill_continuous(low = "white", high = "blue", name = "2020", label = scales::comma) + 
   labs(title = "Percentage change in Tax Revenue") +
