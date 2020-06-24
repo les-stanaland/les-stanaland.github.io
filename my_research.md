@@ -15,7 +15,7 @@ permalink: /my_research/
 We see here spikes in the number of tweets based on the response to the Floyd death as well as a Twitter spat with the President regarding the Capitol Hill Autonomous Zone.
 
 # Texas Tax Revenue changes
-```{r Texas}
+```{r Texas, echo=F}
 ##Visualising Sales Tax data
 
 ###########################################################
